@@ -48,33 +48,6 @@ Desenvolvedor focado na construção de arquiteturas backend robustas, bancos de
 
 ---
 
-### 🎮 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐱 Tappy Cat</h3>
-      <p align="center">
-        Projeto de jogo desenvolvido em <b>C# / Unity</b> com foco em mecânicas de física 2D, estruturação de game loops, controle de colisões e animação de sprites.
-      </p>
-      <p align="center">
-        <a href="https://github.com/FelipSza/Tappy-Cat"><b>Ver repositório →</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Backend & Web Services</h3>
-      <p align="center">
-        Aplicações e APIs com foco em <b>TypeScript</b>, <b>Node.js</b>, boas práticas de arquitetura, modularização e integração com bancos de dados.
-      </p>
-      <p align="center">
-        <a href="https://github.com/FelipSza/projetoaccte"><b>Ver repositório →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <sub>Construindo soluções escaláveis e explorando novos mundos através do código.</sub>
 </div>
