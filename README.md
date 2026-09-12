@@ -19,7 +19,7 @@ Desenvolvedor focado na construção de arquiteturas backend robustas, bancos de
 - 💻 **Foco de Atuação:** Desenvolvimento backend, APIs resilientes, modelagem/otimização de bancos de dados relacionais e conteinerização.
 - 🎮 **Game Dev & Arte:** Explorando mecânicas, física e arquitetura de jogos com **C# / Unity**, além de criar sprites e animações em pixel art no **Aseprite**.
 - 📚 **No radar:** Aprimorando padrões de microsserviços, performance em containers e estudando japonês (foco JLPT N4 🇯🇵).
-- ☕ **Combustível:** Café filtrado e tereré.
+- ☕ **Combustível:** Café!
 
 ---
 
