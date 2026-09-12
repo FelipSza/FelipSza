@@ -15,7 +15,7 @@ Desenvolvedor focado em soluções escaláveis, arquitetura backend e desenvolvi
 ---
 
 ### 📊 Estatísticas
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=FelipSza&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight" height="150" />
 
 </div>
