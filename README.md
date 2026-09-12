@@ -39,6 +39,15 @@ Desenvolvedor focado na construção de arquiteturas backend robustas, bancos de
 
 ---
 
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipSza&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+---
+
 ### 🎮 Projetos em Destaque
 
 <table>
@@ -63,15 +72,6 @@ Desenvolvedor focado na construção de arquiteturas backend robustas, bancos de
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipSza&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
 
 ---
 
