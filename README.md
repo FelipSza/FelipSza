@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, sou [Seu Nome] 👋
+# Olá👋
 
 Desenvolvedor focado em soluções escaláveis, arquitetura backend e desenvolvimento de jogos.
 
