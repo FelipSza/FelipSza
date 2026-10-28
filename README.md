@@ -9,7 +9,7 @@
 </div>
 
 ### ☕ O Contexto
-CLT em contabilidade (fiscal), sempre escrevendo código para eliminar o trabalho operacional irracional e automatizar o que deveria ser automático. 
+Atuando na parte fiscal contabilidade, sempre escrevendo código para eliminar o trabalho operacional irracional e automatizar o que deveria ser sistêmico. 
 
 Combustível: **Café!**
 
