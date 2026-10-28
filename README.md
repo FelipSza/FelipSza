@@ -53,8 +53,8 @@ Combustível: **Café!**
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipSza&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=FelipSza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </div>
 
 ---
