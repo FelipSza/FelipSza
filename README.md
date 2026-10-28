@@ -21,7 +21,7 @@ Combustível: **Café!**
 * **Arquitetura & Backend:** `Node.js`, `Express`, `Prisma ORM`, `PostgreSQL`, `SQLite (FFI / In-memory)`
 * **Engenharia de IA & Local LLM:** `Ollama` (modelos locais, personas via `Modelfile`, RAG local estruturado em JSON Mode)
 * **Ecossistemas & Interfaces:** `Flutter` (Desktop/Mobile), `Chromium Extensions (Manifest V3)`, `Docker`
-* **Ambiente & Ferramentas:** `Antigravity`, `Git`, `Obsidian`
+* **Ambiente & Ferramentas:** `Antigravity`, `Git`, `Figma`
 * **Criação & Game Dev:** `Unity`, `Aseprite`
 
 ---
