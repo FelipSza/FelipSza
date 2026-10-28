@@ -1,50 +1,64 @@
 <div align="center">
 
-# Olá, mundo! Sou o Felipe (FelipSza) 👋
-### Backend Developer & Game Dev Enthusiast
+# Felipe (FelipSza) 👋
 
-Desenvolvedor focado na construção de arquiteturas backend robustas, bancos de dados e sistemas escaláveis, com uma grande paixão por desenvolvimento de jogos e pixel art. Busco sempre unir engenharia de software sólida a experiências interativas.
+### *Construindo utilitários que dissolvem a fricção operacional e forjando ferramentas que servem de alicerce para mundos maiores.*
 
 ---
 
 </div>
 
----
+### ☕ O Contexto
+CLT em contabilidade (fiscal), sempre escrevendo código para eliminar o trabalho operacional irracional e automatizar o que deveria ser automático. 
 
-### 🚀 Sobre mim
-
-- 💻 **Foco de Atuação:** Desenvolvimento backend, APIs resilientes, modelagem/otimização de bancos de dados relacionais e conteinerização.
-- 🎮 **Game Dev & Arte:** Explorando mecânicas, física e arquitetura de jogos com **C# / Unity**, além de criar sprites e animações em pixel art no **Aseprite**.
-- 📚 **No radar:** Aprimorando padrões de microsserviços, performance em containers e estudando japonês (foco JLPT N4 🇯🇵).
-- ☕ **Combustível:** Café!
+Combustível: **Café!**
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### 🛠️ Ecossistema & Tecnologias
 
-**Backend & Engenharia de Software**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Game Dev & Criação**
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
+* **Linguagens & Core:** `TypeScript`, `Dart`, `Python`, `C#`, `SQL`
+* **Arquitetura & Backend:** `Node.js`, `Express`, `Prisma ORM`, `PostgreSQL`, `SQLite (FFI / In-memory)`
+* **Engenharia de IA & Local LLM:** `Ollama` (modelos locais, personas via `Modelfile`, RAG local estruturado em JSON Mode)
+* **Ecossistemas & Interfaces:** `Flutter` (Desktop/Mobile), `Chromium Extensions (Manifest V3)`, `Docker`
+* **Ambiente & Ferramentas:** `Antigravity`, `Git`, `Obsidian`
+* **Criação & Game Dev:** `Unity`, `Aseprite`
 
 ---
 
-### 📊 Estatísticas
+### 🌌 Criação & Ferramentas de Mundo
+
+* **[LoreWeaver Studio](https://github.com/FelipSza/LoreWeaver-Studio):** Suíte autoral multiplataforma para autores e ficção seriada.
+  * Filosofia *Vault-First* & *Offline-First* com zero lock-in (Markdown + YAML Frontmatter).
+  * Núcleo de IA local desacoplado via **Ollama** (`loreweaver-core`), RAG semântico contextual e modo JSON estrito.
+  * Indexação relacional acelerada com **SQLite FFI** efêmero e sincronização Git híbrida (CLI nativo no Desktop + GitHub REST Tree API no Mobile).
+  * Design System estrito *Minimalist OLED Void* (`#050507`), teleprompter multi-voz e códice interativo com barreiras anti-spoiler.
+* **Ambientes de Estudo Coletivo & Personas de IA:** Experimentação e orquestração de agentes locais com personalidades e papéis bem delineados para discussão e aprendizado colaborativo.
+* **[Tappy-Cat](https://github.com/FelipSza/Tappy-Cat):** Laboratório de game loop, gerenciamento de ciclo de vida de objetos em cena e física com C# e Unity.
+
+---
+
+### ⚙️ Aplicações Utility & Automação Fiscal
+
+* **[CND — Automação & Gestão Fiscal](https://github.com/FelipSza):** Ecossistema completo para gestão e coleta autônoma de certidões e situação fiscal.
+  * Backend robusto em **Express 5**, **TypeScript** e **Prisma ORM (PostgreSQL)** com Docker.
+  * **Extensão de Navegador v2.1 (Manifest V3)** com HUD assistente in-page, suporte *Human-in-the-loop*, bypass de deadlocks e automação profunda nos portais **e-CAC** e **Receita Federal**.
+  * Parsing inteligente de PDFs de certidões e exportação analítica nativa em `.xlsx` via SheetJS.
+* **[EFD-FIXER](https://github.com/FelipSza):** Motor de padronização, auditoria e conciliação SPED EFD-Contribuições.
+  * Saneamento e higienização estrita dos Blocos 0, C, F, M, 1 e reconstrução exata do Bloco 9 para validação direta no PVA da RFB.
+  * Conciliação automática de receitas monofásicas, balancete contábil e cruzamento de cupons fiscais.
+* **[AutoFill Pro](https://github.com/FelipSza):** Extensão Chromium para injeção e mapeamento visual dinâmico de planilhas (`.xlsx`) em formulários web complexos (Angular, React, Vue), com controle híbrido (Passo a Passo / Automático).
+* **[Extrator de Guias ISS & DCTFWeb](https://github.com/FelipSza):** Ferramenta desktop em Python com interface gráfica para processamento em lote, extração nativa de PDFs/OCR (Tesseract) e consolidação contábil estruturada.
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipSza&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=FelipSza&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipSza&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Construindo soluções escaláveis e explorando novos mundos através do código.</sub>
+  <sub>Construindo soluções resilientes para o mundo real e explorando universos através do código.</sub>
 </div>
