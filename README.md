@@ -9,7 +9,7 @@
 </div>
 
 ### ☕ O Contexto
-Atuando na parte fiscal contabilidade, sempre escrevendo código para eliminar o trabalho operacional irracional e automatizar o que deveria ser sistêmico. 
+Atuando na parte fiscal contabilidade, desenvolvendo soluções escaláveis para simplificar processos e maximizar a eficiência operacional.
 
 Combustível: **Café!**
 
