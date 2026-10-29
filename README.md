@@ -22,7 +22,7 @@ Combustível: **Café!**
 * **Engenharia de IA & Local LLM:** `Ollama` (modelos locais, personas via `Modelfile`, RAG local estruturado em JSON Mode)
 * **Ecossistemas & Interfaces:** `Flutter` (Desktop/Mobile), `Chromium Extensions (Manifest V3)`, `Docker`
 * **Ambiente & Ferramentas:** `Antigravity`, `Git`, `Figma`
-* **Criação & Game Dev:** `Unity`, `Aseprite`,`Blender`
+* **Criação & Game Dev:** `Unity`, `Aseprite`, `Blender`
 
 ---
 
