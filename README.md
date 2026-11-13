@@ -4,7 +4,6 @@
 
 ### *Dissolvendo fricção operacional com engenharia de automação e forjando ferramentas que servem de alicerce para mundos maiores.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/FelipSza)
 [![Email](https://img.shields.io/badge/Contato-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](#)
 
